@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Este arquivo é apenas um exemplo que não faz parte da aplicação completa.
+ * Pode ser removido depois que o assunto for entendido.
+ */
+
 // Recebe dados do formulário
 echo '<pre>';
 print_r($_POST);
